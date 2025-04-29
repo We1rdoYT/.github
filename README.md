@@ -1,2 +1,0 @@
-# .github
-Official Weirdo README
